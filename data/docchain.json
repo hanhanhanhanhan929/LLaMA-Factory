@@ -1,0 +1,1337 @@
+[
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "IDEA、Exception in thread \"main\" java.lang.RuntimeException Create breakpoint  lingma →: 命令行参数错误、return (double) n1 /(double) n2;",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/1.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "pycharm、low_res_image.save(os.path.join(output_folder, os.path.splitext(filename)[0]+ ' _blurred_1.png'))、处理完成",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/2.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "Microsoft Edge首页",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/3.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "Microsoft Edge国内版/国际版首页",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/4.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "资产平台、https://iud.hjcloud.com/uddp/#/login、平台账号登录、浩鲸统一登录",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/5.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "大模型创新团队，云雀研发云、平台特性订阅界面",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/6.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "研发云文档中心图片搜索、以图搜图、支持如下方式搜索图片:\n1.将文件拖拽到此处;\n2.直接【ctrl+v】粘贴剪切板图片;\n3.点击此处 上传图片。目前只支持技术中台文档库图片搜索，如需接入，请联系饶宇(0027019573)\n图片搜索可以做什么?1.快速搜索相关模块的图片资料，如 serverless架构图、流程图等2.根据图片搜索结果，快速定位到图片出处，查看相关文档3.截取页面报错/异常，快速搜索相关解决方案(建设中)4. 敬请期待更多场景",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/7.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "达芬奇低代码平台，接口管理界面",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/8.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "工程保存编译失败、请检查页面【basicLayout】中的错误。处于行:18，列::0 SyntaxError: Adjacent JSX elements must be wrapped in an enclosing tag. Did you want a JSX fragment <>...</>?(18:0)、Console、Ul界面",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/9.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "SGP_WORKSPACE_sgp-portal、sgp-prod、选中数据库实例\n右下方展示数据库连接趋势、响应统计、负载、REDIS、sgp-prod",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/10.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "SQL服务中心的架构图。它展示了SQL脚本管理、数据管理和服务场景等功能模块。具体包括脚本版本管理、表数据管理、SQL查询窗口、一键部署、CICD等功能。底部展示了支持的数据库类型，如MySQL、Oracle和QMDB。\n",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/11.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "调用-被调用趋势折现图",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/12.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "5G Telecom Solution forthe vertical enterprise、Lego-like 5G Network and Cloud Compution Solutionfor the vertical enterprise and their customers expect、Let's Try lt !、5G Network Solutions For Your Business",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/13.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "欢迎使用浩鲸安全助手(Welcome to use WhaleCloud security assistant)、认证完成，合法目符合准入控制条件的终端、登录方式(Login method):工号(staff ID)/ZMP密码(ZMP password)",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/14.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "浩鲸安全助手平台中软件管理界面",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/15.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "0 2607-fc30:100:1000-28、Welcome to ZoM bastion host v1.8.0",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/16.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": " 进入iPlatform研发管理项目中，云雀研发云应用管理界面的开发者模式，租客为南研小机房",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/17.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "SQL Injection Challenge Two、To complete this challenge, you must exploit sQL injection flaw in the following form to find the result key、Please enter the Customer ld of the user that you want to look up，Search Results、Scoreboard、Lessons、Challenges",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/18.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "需求描述：应用系统内账号名称必须保证唯一性，不能创建必选相同名称的账号。实施指导/建议：在应用系统中新建账号时，检查系统中如果已存在同样名称的账号(无论出于什么账号状态)，则不允许创建。",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/19.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "Browser，Interface Machine首页",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/20.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "Browser，Business object Template首页",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/21.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "FASS软件中，plancasesave-check项目发送POST请求",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/22.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "在oss_dispatch项目的云雀研发云平台，日志分析的界面",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/23.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "浩鲸科技云雀研发云登录首页",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/24.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "在icicd研发管理项目的云雀研发云平台，仓库管理监控首页",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/25.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "研发云平台的主流程（TM）",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/26.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "大模型创新团队项目，云雀研发云平台，研发平台首页",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/27.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "itracing平台， Container（010045061052_67886_1)容器Last 5m监控平台首页。",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/28.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "鲸智数据工厂平台，企业用户首页",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/29.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "浩鲸科技scop平台登录首页",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/30.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "从服务市场到机房云的服务市场费用结算流程",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/31.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "在IDEA编辑器中，利用java语言执行public int compare(0bject o1, 0bject o2) {int i1 =(Integer)o1;int i2 =(Integer)o2;return i2-11};语句",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/32.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "在IDEA编辑中，出现了SyntaxError: invalid syntax",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/33.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "在VScode编辑器中，执行java程序，方法bubble02、bubble01提示警告：This anonymous inner class creation can be turned into a lambda expression. (hints(1): 7:27-7:37) [Ln 7, Col 27，The assianed value is never used (hints(2): 20:20-20:21)[Ln 20, Col 20， The assigned value is never used (hints(3): 33:20-33:21)[Ln 33, Col 20]",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/34.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "大模型创新团队项目，云雀研发云平台，Access Yoken管理界面",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/35.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "云雀研发云平台，图片检索01-数据集情况调研文档：以文搜图部分",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/36.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "Deelp(全球最准去的翻译）网页首页",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/37.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "研究生期间笔记整理，包括最新文章，分类以及标签云三个模块",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/38.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "大模型创新团队项目云雀研发云平台，搜索构建流程界面的构建流程首页",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/39.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "研发云文档中心图片搜索平台，利用以文搜图，展示输入流程图的搜索结果界面",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/40.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "用户输入了 Oracle 服务器的 IP 地址、端口号、SID（系统标识符）、DBA 用户名和密码。错误信息：连接失败，提示无法从底层数据库获取连接。重试提示：系统询问用户是否要重试连接。",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/41.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "ZCM软件平台，进入仪表盘-> 汇总信息提示报错：调用QryDeviceHeartBeat服务内部异常，详情请查看日志 1.web_app.log2.server app.log 3.data_app.l0g",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/42.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "达芬奇低代码平台，代码流程示意图。Interface Management,提示错误：X CarMgr/index/mounted Action DSL error Property 'outList' does not exist on type 'void'\nXCarMgr/index/assign Action DSL error Cannot find name 'outList'.\n",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/43.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "新建表单，表单项包括：区域，车牌，车主姓名以及是否启用，其中车牌以及车主姓名不能为空，表单最后可选择确定或取消",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/44.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "xunjian-cpu中host配置，10.10.176.75 ansible ssh user=root ansible ssh pass=2smart!$123，提示错误：文件名称只能包含字母、数字、短横线及下划线!",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/45.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "进入127.0.0.0：25000网页地址报错：404 Not Found，页面显示nginx/1.17.1",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/46.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "移动端Prepaid Registration测试，MSISDN，Preferred Language，Invalid starterpack status",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/47.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "中国联通二干调度系统平台，出现警告：勾选电路数据中，存在未起草调单的电路!请先起草调单。。。",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/48.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "在0.10.97.217.13执行ls命令并进入log文件下，执行tailf ngportal web product r92.log",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/49.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "大创多模态模型项目，研发平台首页历史消息展示：AZCM-CORE-00403:您没有该数据的操作权限",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/50.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "在Pycharm编辑器中，语句报错10:05json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char )",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/51.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "getoption(\"repos\")’ replaces Bioconductor standard repositories, see '?repositories' fordetai7s\nreplacement repositories:\nCRAN: https://cran.rstudio.com/\ngetoption(\"repos\")' replaces Bioconductor standard repositories, see '?repositories' fordetai]s\nreplacement repositories:CRAN: https://cran.rstudio.com/",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/52.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "在pycharm编辑器中，语句报错：TypeError: zzsj()missing 2 required positional arguments: 'cls' and 'qssj'",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/53.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "大创多模态项目中，云雀研发云平台弹性伸缩首页出现错误：Script error for: zcm-application/modules/scalepolicymgr/views/AppScalePolicyhttp://requirejs.org/docs/errors.html#scripterror",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/54.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "Postwoman首页response出现错误\"Error:Network Error. check console for details.“",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/55.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "大创多模态项目首页提示错误：Ajax error  zcm-cmdb/v1/users/21701/projectapprovals，Ajax errorzcm-cmdb/v1/workorders/statistics/pending，Ajax error zcm-devspace/reportusers/21701/pending-task.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/56.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "向http://172.16.17.122:52000/portal/magiccode发送请求，成功响应结果为：.11C2D5E-1A81EF40-A7A5E32-3B286136-9A2EEF04-DE9D356B-A375AF9C-BC4537DE-8288FD2F-97A59DD9-84B48C0A-E64FC682-96750490-4E292DDA-F\nC4B4F25-1F47CF01-E68F37A6-DB722376\"",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/57.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "综合运维管控平台中系统目录维护界面。提示网络连接失败",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/58.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "达芬奇低代码表格控件使用说明，getCarlnfo拖过去可展示",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/59.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "第一页表单显示：名称：车辆地域，编号：carArea，类型：文本，操作：编辑、删除、设置（车辆地域宣相结合设置",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/60.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "达芬奇低代码平台，元数据管理下新增实体。实体管理窗口，通过右击元数据结构树，数据库节点可以快速创建实体，右击具体实体系欸但快速创建实体数据属性。",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/61.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "目录显示多个工作表,删除工作表ty1",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/62.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "系统配置定时器，执行频率设置：Cron、生效时间、失效时间、右上角有提示消息",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/63.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "流程步骤列表Start、代码下载、代码编译、制作镜像、SQL生成更新、配置(试飞)、推送更新、ZTP测试、END，当前处于ZTP测试",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/64.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "工作台测试应用，新增工作表，可以创建空白表单或从Excel导入",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/65.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "ZSMART CLOUD MANAGER平台，版本交付 bssdev-bssde首页",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/66.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "新建同步目标,操作：编辑或删除",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/67.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "ZSMART CLOUD MANAGER平台登录界面",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/68.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "灵犀平台，开始界面，欢迎来到灵犀快速开发平台，我们为您准备了「新手指南」",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/69.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "iCICD研发管理项目云雀研发云平台，综合查询界面，点击查看变动文件",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/70.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "灵犀平台，运维主页提示API鉴权管理",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/71.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "在root@node95输入：route  -n",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/72.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "demo项目，租户：南研小机房，云雀研发云平台，开源治理平台展示SCOP系统的总体规划，",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/73.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "鲸+系统， 朱颖的工作台",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/74.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "\"prodInstId\":\"ccBearer 0629 01H”，\"custId\":\"5661,\n\"custCode\":\"56dn“",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/75.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "* 用户姓名，* 用户编码，打开切换Demo场景",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/76.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "浩鲸科技 元数据平台，域规则配置首页",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/77.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "demo项目（demo项目不建议业务上直接使用），云雀研发云平台首页",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/78.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "大创多模态项目，云雀研发云平台，团队名称：大模型创新部，创建人：王玉木",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/79.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "大创多模态项目，云雀研发云平台，文档中心界面，最近打开文档展示",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/80.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "大创多模态项目，云雀研发云平台，监控平台首页",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/81.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "大创多模态项目，云雀研发云平台，SQL服务中心首页，无数据显示",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/82.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "大创多模态项目，云雀研发云平台，我的主机预览首页",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/83.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "大创多模态项目，云雀研发云平台，转发网关首页",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/84.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "大创多模态项目，云雀研发云平台，CI运行环境管理首页",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/85.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "大创多模态项目，云雀研发云平台，一键部署管理首页",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/86.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "大创多模态云雀研发云平台，图像检索课题数据整理，包括：通用场景、系统截图场景、结构化图片召回场景、结构化图片分析场景",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/87.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "数据清理功能中Data Clean Rule首页",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/88.png"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>这张图片描述的内容是什么",
+                "role": "user"
+            },
+            {
+                "content": "大创多模态项目中，云雀研发云平台数据清洗功能，Data Clean Task首页",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "/data/hanrui/data/docchain/89.png"
+        ]
+    }
+]
